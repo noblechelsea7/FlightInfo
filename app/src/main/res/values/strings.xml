@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flight Info</string>
+
+    <string name="title_flight">航班</string>
+    <string name="title_exchange_rate">匯率</string>
+    <string name="tab_flight_departure">起飛班機</string>
+    <string name="tab_flight_arrival">抵達班機</string>
+    <string name="flight_real_time">實際時間</string>
+    <string name="flight_expected_time">預計時間</string>
+</resources>
